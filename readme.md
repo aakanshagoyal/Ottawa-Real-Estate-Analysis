@@ -1,7 +1,7 @@
-# EDA of Ottawa Real Estate Data
+# Ottawa Real Estate Data Preprocessing and Analysis
 
 ## Overview
-Following dataset shows the dreal estate trend in Ottawa from the year 1847 to 2022.
+Following dataset shows the real estate trend in Ottawa from the year 1847 to 2022.
 ## Description
 Pre-processing and analysis of the Ottawa real estate dataset. The dataset contains information about how different types of attributes like number of bedrooms, bathrooms, garage, walkscore has an impact on the prices of the houses in Ottawa
 
